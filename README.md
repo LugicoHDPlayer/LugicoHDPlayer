@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lugico (@LugicoHDPlayer)
+- 🌐 https://lugico.de
+- 📧 me@lugico.de
+- 🤖 Discord: Lugico#4952
