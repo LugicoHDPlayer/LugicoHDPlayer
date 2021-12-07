@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lugico (@LugicoHDPlayer)
 - 🌐 https://lugico.de
-- 📧 me@lugico.de
+- 📧 main@lugico.de
+- 🔑 https://lugico.de/pgp-key.txt
 - 🤖 Discord: Lugico#4952
